@@ -18,7 +18,7 @@ Welcome to my **YouTube Lectures/Video Repository**, where I share insightful an
 ## 📈 Regression Simplified
 
 ### **1. Linear Regression Explained**
-- **Link**: [Watch on YouTube]([https://www.youtube.com/watch?v=example1](https://youtu.be/GpQd6AhTSwg?si=tM_w4Lb-PNl9kpGi))
+- **Link**: [Watch on YouTube]([https://www.youtube.com/watch?v=example1](https://youtu.be/GpQd6AhTSwg?si=tM_w4Lb-PNl9kpGi)
 - **Description**: A beginner-friendly explanation of linear regression, covering concepts, use cases, and implementation in microsoft azure.
 ---
 
