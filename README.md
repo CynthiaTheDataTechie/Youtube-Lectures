@@ -6,27 +6,28 @@ Welcome to my **YouTube Lectures/Video Repository**, where I share insightful an
 
 ## 📚 Table of Contents
 
-1. [Regression Simplified](#regression-simplified)
-2. [Classification and Clustering Simplified](#classification-and-clustering-simplified)
-3. [Exploring Natural Language Processing (NLP) and Decision Support](#exploring-natural-language-processing-nlp-and-decision-support)
-4. [Microsoft PowerUp Challenge](#microsoft-powerup-challenge)
-5. [Harnessing Price Sensitivity for Effective Customer Segmentation](#harnessing-price-sensitivity-for-effective-customer-segmentation)
-6. [Connect With Me](#connect-with-me)
+1. [Regression Simplified](#-regression-simplified)
+2. [Classification and Clustering Simplified](#-classification-and-clustering-simplified)
+3. [Exploring Natural Language Processing (NLP) and Decision Support](#-exploring-natural-language-processing-nlp-and-decision-support)
+4. [Microsoft PowerUp Challenge](#-microsoft-powerup-challenge)
+5. [Harnessing Price Sensitivity for Effective Customer Segmentation](#-harnessing-price-sensitivity-for-effective-customer-segmentation)
+6. [Connect With Me](#-connect-with-me)
 
 ---
 
 ## 📈 Regression Simplified
 
 ### **1. Linear Regression Explained**
-- **Link**: [Watch on YouTube]([https://www.youtube.com/watch?v=example1](https://youtu.be/GpQd6AhTSwg?si=tM_w4Lb-PNl9kpGi)
-- **Description**: A beginner-friendly explanation of linear regression, covering concepts, use cases, and implementation in microsoft azure.
+- **Link**: [Watch on YouTube](https://youtu.be/GpQd6AhTSwg?si=tM_w4Lb-PNl9kpGi)
+- **Description**: A beginner-friendly explanation of linear regression, covering concepts, use cases, and implementation in Microsoft Azure.
+
 ---
 
 ## 📊 Classification and Clustering Simplified
 
 ### **1. Clustering Simplified**
 - **Link**: [Watch on YouTube](https://youtu.be/EIG05iAE-ig?si=nJaklEnpAfXfft8c)
-- **Description**: Learn the basics of  classification and clustering in a simplified, non-technical way.
+- **Description**: Learn the basics of classification and clustering in a simplified, non-technical way.
 
 ---
 
@@ -34,7 +35,7 @@ Welcome to my **YouTube Lectures/Video Repository**, where I share insightful an
 
 ### **1. Introduction to Natural Language Processing (NLP) and Decision Support**
 - **Link**: [Watch on YouTube](https://youtu.be/UQnv1ySo3Mg?si=889bi2omt8gMnIht)
-- **Description**: An introduction to NLP, covering text preprocessing, tokenization, and sentiment analysis and Understand how decision support systems leverage machine learning for better business outcomes.
+- **Description**: An introduction to NLP, covering text preprocessing, tokenization, and sentiment analysis. Understand how decision support systems leverage machine learning for better business outcomes.
 
 ---
 
